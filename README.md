@@ -12,7 +12,6 @@ Modules / Features
 <br> Edit
 <br> Delete
 <br> List Pagination (set list by 7 as per docs)
-
 <br> Not Implemented - Contact Search
 
 Technologies
