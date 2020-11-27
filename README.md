@@ -13,6 +13,8 @@ Modules / Features
 <br> Delete
 <br> List Pagination
 
+<br> Not Implemented - Contact Search
+
 Technologies
 1. PHP
 2. MySQL
